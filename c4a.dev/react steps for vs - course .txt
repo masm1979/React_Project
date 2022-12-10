@@ -35,3 +35,6 @@ Extensions for Theme
 npx create-react-app c4a.dev
  cd c4a.dev
   npm start
+
+  ### to get node_modules after download your project from github :
+        npm i
