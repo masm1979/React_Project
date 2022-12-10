@@ -38,3 +38,9 @@ npx create-react-app c4a.dev
 
   ### to get node_modules after download your project from github :
         npm i
+
+
+  ### to convert from html to jsx make search on google and make convert
+
+
+  ### multi pages => npm install react-router-dom
