@@ -2,7 +2,7 @@ const Home = () => {
   return (
     <>
       <header className="hide-when-mobile">
-        <h1>Courses 4 Arab</h1>
+        <h1>clasc4a.dev***</h1>
         <ul className="flex">
           <li className="main-list">
             <a className="main-link" href="#">
@@ -60,7 +60,7 @@ const Home = () => {
         </ul>
       </header>
       <header className="show-when-mobile">
-        <h1>Courses 4 Arab</h1>
+        <h1>clasc4a.dev***</h1>
         <label className="absolute" htmlFor="burger">
           <i className="fas fa-bars" />
         </label>
@@ -131,13 +131,9 @@ const Home = () => {
           </div>
         </div>
       </header>
-      <main>
-        Respossive Drop-down <br />
-        Menu Bar <br />
-        HTML &amp; CSS only
-      </main>
+      <main>Home page</main>
       <footer>
-        Designed and developed by Courses4Arab.com
+        dddDesigned and developed by Courses4Arab.com
         <span>🧡</span>
       </footer>
     </>
